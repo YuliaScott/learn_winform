@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_AIO", "WinForm_AIO.csproj", "{58DDAF5C-BF82-43E6-924C-485C4A6875AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DDAF5C-BF82-43E6-924C-485C4A6875AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DDAF5C-BF82-43E6-924C-485C4A6875AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DDAF5C-BF82-43E6-924C-485C4A6875AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DDAF5C-BF82-43E6-924C-485C4A6875AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08AB4155-10A3-4789-8272-508A109800CC}
+	EndGlobalSection
+EndGlobal
